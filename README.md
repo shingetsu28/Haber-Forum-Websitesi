@@ -24,6 +24,8 @@ Bir günde can sıkıntısından yaptığım bir forum - haber websitesi. Bitirm
 
 5- Etkileşim: Açılan forum konuları ve açılan konulara yazılan yorumlar ortak database'de tutuluyor. Kullanıcılar kendi profilleri doğrultusuyla iletişim kurabiliyor.
 
+6- 404 Sayfası
+
 
 #Eksikler ve Yapılacaklar:
 
